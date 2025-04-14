@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello, Sample Jenkins Multi-Stage Pipeline Integrated"
+    return "Hello, Sample Jenkins Multi-Stage Pipeline Integrate"
 
 
 if __name__ == "__main__":
