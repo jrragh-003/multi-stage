@@ -8,7 +8,7 @@ def home():
     print("Hello")
     print("ABC")
     print("XYZ")
-    return "Hello, Sample Jenkins Multi-Stage Pipeline Integrated and few changes yet to be added"
+    return "Hello, Sample Jenkins Multi-Stage Pipeline Integrated and few changes yet to be added. To be checked later"
 
 
 if __name__ == "__main__":
