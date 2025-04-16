@@ -8,7 +8,7 @@ def home():
     print("Hello")
     print("ABC")
     print("XYZ")
-    return ""
+    return "Changing to something"
 
 
 if __name__ == "__main__":
